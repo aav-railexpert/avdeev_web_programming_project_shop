@@ -1,0 +1,18 @@
+.catalog-item {
+    text-decoration: none;
+    color: #000;
+}
+
+.catalog-item img {
+    width: 100%;
+}
+
+.catalog-item__info {
+    display: flex;
+    justify-content: space-between;
+    margin: 35px 0;
+}
+
+.catalog-item__add-to-cart-button {
+    width: 100%;
+}

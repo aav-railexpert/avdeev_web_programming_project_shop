@@ -1,0 +1,9 @@
+.breadcrumbs {
+    background-color: var(--gray);
+    height: 48px;
+    font-size: 18px;
+    color: var(--beige);
+    display: flex;
+    align-items: center;
+}
+
