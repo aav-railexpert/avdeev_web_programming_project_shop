@@ -27,6 +27,10 @@ body {
     color: var(--beige) !important;
 }
 
+.bold {
+    font-weight: bold;
+}
+
 button {
     font-family: inherit !important;
     background: inherit;

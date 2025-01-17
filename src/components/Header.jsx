@@ -25,11 +25,8 @@ const Header = () => {
                         </div>
                     </div>
                     <div className="header-inner__right">
-                        <a href="" className="icon-cart">
+                        <a href="/checkout" className="icon-cart">
                             <img src="/assets/img/icon-cart.png" alt=""/>
-                        </a>
-                        <a href="" className="icon-search">
-                            <img src="/assets/img/icon-search.png" alt=""/>
                         </a>
                         <a href="tel:8(900) 551-55-55">8(900) 551-55-55</a>
                     </div>
